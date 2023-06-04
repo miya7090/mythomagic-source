@@ -1,8 +1,10 @@
-Public source files for https://mythomagic.herokuapp.com/
+Public source files for https://mythogame.com/
 
 All assets used noncommercially and with credit.
 
 Icons from freepik on flaticon
+
+Character art from velinxi and piddalicious
 
 BGM from the seventh midnight
 
