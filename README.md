@@ -1,11 +1,11 @@
 Public source files for https://mythogame.com/
 
-All assets used noncommercially and with credit.
+Used as resources for MYTHO: Game of the Gods, previously Mythomagic Online, a noncommercial fan project.
 
-Icons from freepik on flaticon
+Icons from freepik on flaticon and used with active license
 
-Character art from velinxi and piddalicious
+Character art by velinxi and piddalicious
 
-BGM from the seventh midnight
+BGM by the seventh midnight
 
-Sound effects from miya7090, cpht fluke, and alan dalcastagne
+Sound effects by miya7090, cpht fluke, and alan dalcastagne
